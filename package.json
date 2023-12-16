@@ -22,7 +22,7 @@
     "node": ">= 20"
   },
   "dependencies": {
-    "@floating-ui/react": "^0.26.0",
+    "@floating-ui/react": "^0.26.2",
     "date-fns": "^2.29.3",
     "lodash.debounce": "^4.0.8",
     "lodash.isempty": "^4.4.0",
